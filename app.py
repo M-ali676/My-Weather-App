@@ -17,7 +17,7 @@ st.title("🌤️My Weather App")
 with st.sidebar:
     st.header("Settings")
 
-    api_key=st.text_input("Enter API KEY:",placeholder="Enter your API KEY HERE")
+    api_key=st.text_input("Enter API KEY:",placeholder="c76390fa0be16e8b1639788b83790bbb")
 
 col1,col2=st.columns([3,1])
 
